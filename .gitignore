@@ -1,5 +1,6 @@
 # Created by Suewoon Ryu 
 *.pkl
+*.pdf 
 
 # Created by https://www.gitignore.io/api/python
 
