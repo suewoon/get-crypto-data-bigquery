@@ -1,7 +1,7 @@
 Get Crypto Dataset from Google BigQuery Public Dataset
 --------------
 
-이 Repo에서는 Google BigQuery의 Public Dataset을 가져오는 방법과 Crypto Dataset을 활용한 [EDA 분석](https://nbviewer.jupyter.org/github/suewoon/get-crypto-data-bigquery/tree/master/)을 담고 있다.
+이 Repo에서는 Google BigQuery의 Public Dataset을 가져오는 방법과 Crypto Dataset을 활용한 [EDA 분석](https://nbviewer.jupyter.org/github/suewoon/get-crypto-data-bigquery/tree/master/google-big-query-test.ipynb)을 담고 있다.
 
 ## Getting Started 
 
